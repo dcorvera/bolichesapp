@@ -1,0 +1,8 @@
+{
+  "name": "bolichesapp",
+  "app_id": "798c84b8",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
